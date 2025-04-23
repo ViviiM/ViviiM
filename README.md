@@ -36,22 +36,19 @@ I'm a passionate Salesforce Developer with expertise in building responsive web 
 
 ## 🚀 Featured Projects
 
-### E-Commerce Platform - ShopEasy
-*Full Stack E-Commerce Solution*
+### Microsoft Outlook Integration - Salesforce
+*Fully integrated with Microsoft Calender and Outlook*
 
-Built a complete e-commerce platform with product catalog, shopping cart, payment processing, and admin dashboard.
+Built a complete events management with syncing with Salesforce to Microsoft Calender ,added CRUD operations.
 
-**Tech Stack:** React, Node.js, Express, MongoDB, Stripe API, AWS S3
+**Tech Stack:** Lightning Web Components, Apex , OAuth(2.0)
 **Features:**
-- Responsive product catalog with search and filtering
-- User authentication and profile management
+- 🔗 Bi-directional Sync Between Salesforce and Microsoft Calendar
+- Full CRUD Operations on Events
 - Real-time shopping cart and wishlist
-- Secure payment processing with Stripe
-- Order tracking and history
-- Admin dashboard with inventory management
-
-**Demo:** [shopeasy-demo.example.com](https://shopeasy-demo.example.com)
-**GitHub:** [github.com/johndoe/shopeasy](https://github.com/johndoe/shopeasy)
+- Intelligent Conflict Handling & Time Zone Awareness
+- Outlook Email & Invite Integration
+- Centralized Event Management Dashboard in Salesforce
 
 ### AI Content Generator - CreativeMind
 *AI-Powered Content Creation Tool*
@@ -67,15 +64,12 @@ Developed an AI-assisted content generation platform for marketing teams to crea
 - Team collaboration tools
 - Export in multiple formats
 
-**Demo:** [creativemind.example.io](https://creativemind.example.io)
-**GitHub:** [github.com/johndoe/creativemind](https://github.com/johndoe/creativemind)
-
 ### Health & Fitness Tracker - FitTrack
 *Mobile-First Fitness Application*
 
 Created a comprehensive fitness tracking application to monitor workouts, nutrition, and progress.
 
-**Tech Stack:** React Native, Firebase, Node.js, GraphQL
+**Tech Stack:** React , Firebase, Node.js, GraphQL
 **Features:**
 - Custom workout builder with exercise library
 - Nutrition tracker with barcode scanner
@@ -83,9 +77,6 @@ Created a comprehensive fitness tracking application to monitor workouts, nutrit
 - Workout reminders and achievements
 - Social sharing and community challenges
 - Integration with wearable devices
-
-**Demo:** [fittrack-app.example.com](https://fittrack-app.example.com)
-**GitHub:** [github.com/johndoe/fittrack](https://github.com/johndoe/fittrack)
 
 ## 💼 Professional Experience
 
@@ -155,7 +146,7 @@ Visitors can customize the portfolio viewing experience with:
 
 ## 📚 Blog & Resources
 
-I regularly write about web development, Devops in Salesforce , emerging technologies, and career growth.
+I regularly write about Salesforce , Devops in Salesforce , emerging technologies, and career growth.
 
 
 ## 🤝 Let's Connect
